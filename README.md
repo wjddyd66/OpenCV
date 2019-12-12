@@ -12,5 +12,5 @@
 11. OpenCV-ObjectTracking (ObjectTracking)
 12. Dataset(data)
 
-**각코드에 대한 자세한 내용: <https://wjddyd66.github.io/category/OpenCV>**  
+**각코드에 대한 자세한 내용: <https://wjddyd66.github.io/categories/#opencv>**  
 연락처: wjddyd66@naver.com
